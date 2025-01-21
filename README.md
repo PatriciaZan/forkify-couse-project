@@ -2,6 +2,8 @@
 
 From the complete JavaScript Couse by [Jonas Schmedtmann on Udemy](https://www.udemy.com/course/the-complete-javascript-course/?couponCode=ST18MT12125)
 
+You can check the page [Here](https://forkify-couse-project.netlify.app/)
+
 <p>In this project a page is created for the search of recepies from a favorite plate name like "pizza", "spaghetti", "tomato" and so on.</p>
 <p>It will return:</p>
 <ul>
